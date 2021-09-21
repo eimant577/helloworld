@@ -5,5 +5,6 @@ int main() {
    int a = 0;
 
    printf("Hello, eimantas blablabl!");
+   printf(" blablabl!");
    return 0;
 }
